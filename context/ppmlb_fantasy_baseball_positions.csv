@@ -1,0 +1,12 @@
+﻿Position,Name,Details,Starting Slots
+1B,First Base,,1
+2B,Second Base,,1
+3B,Third Base,,1
+SS,Shortstop,,1
+RF,Right Field,,1
+CF,Center Field,,1
+LF,Left Field,,1
+U,Utility,"Any batter, Any position",2
+CA,Catcher,,1
+SP,Starting Pitcher,,5
+RP,Relief Pitcher,,3
